@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-08-01T11:49:45.182Z</updated>
+  <updated>2019-08-01T11:52:19.463Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,17 +21,16 @@
     <link href="http://yoursite.com/2019/07/31/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
     <id>http://yoursite.com/2019/07/31/我的博客/</id>
     <published>2019-07-31T15:24:12.415Z</published>
-    <updated>2019-08-01T11:49:45.182Z</updated>
+    <updated>2019-08-01T11:52:19.463Z</updated>
     
-    <content type="html"><![CDATA[<p>#Markdown</p><blockquote><p>网上关于Markdown的介绍和入门指南已经很多，再写一份似乎显得多余，但对于我自己来说，写这样一份文档是对自己的Markdown掌握情况的检验，也是为推广Markdown贡献力量。<br>如有错漏之处，还请指出。</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<p>title: Hello Wo</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;#Markdown&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;网上关于Markdown的介绍和入门指南已经很多，再写一份似乎显得多余，但对于我自己来说，写这样一份文档是对自己的Markdown掌握情况的检验，也是为推广Markdown贡献力量。&lt;br&gt;如有错漏之处，还请指出。
+        &lt;p&gt;title: Hello Wo&lt;/p&gt;
+
       
     
     </summary>
